@@ -1,0 +1,24 @@
+{
+  "name": "ebac_modulo22_cypress_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospoliceno/ebac_modulo22_cypress_ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospoliceno/ebac_modulo22_cypress_ui/issues"
+  },
+  "homepage": "https://github.com/marcospoliceno/ebac_modulo22_cypress_ui#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^9.4.1"
+  }
+}
